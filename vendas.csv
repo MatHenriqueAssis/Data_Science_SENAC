@@ -1,0 +1,6 @@
+Região,Mês,Vendas,Despesas
+Norte,Jan,1500.0,300.0
+Norte,Fev,,250.0
+Sul,Jan,2200.0,
+Sul,Fev,1800.0,400.0
+Norte,Mar,2000.0,350.0
